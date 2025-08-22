@@ -1,67 +1,44 @@
 # Assam Land Survey
 
-## 📌 Overview
-The **Assam Land Survey Project** is a comprehensive initiative aimed at streamlining and digitizing land records across Assam. The project ensures accurate land measurement, data verification, and structured digital storage for both **Resurvey Villages (Reservey)** and **Urban Villages (NAKSHA Project)**.
+## 📝 Project Overview
+The **Assam Land Survey Project** is a state initiative that focuses on **Resurvey** and **Naksha Project** to digitize, verify, and modernize land records across districts, circles, and villages.  
 
----
-
-## 📍 Reservey (Village Resurvey)
-Reservey refers to the process of **re-surveying villages** to update and validate existing land records.  
-- **Objective:** Ensure transparency and accuracy in land ownership and property details.  
-- **Scope:** Covers rural and semi-rural areas where records need to be digitized.  
-- **Progress Tracking:** Includes total villages, villages completed, villages under verification, and ongoing villages.  
-
----
-
-## 🏙️ NAKSHA (Urban Villages Survey)
-The **NAKSHA Project** focuses on **urban villages and properties** where rapid development requires updated records.  
-- **Objective:** Capture detailed property information in urban and semi-urban areas.  
-- **Scope:** Includes surveying of properties, pending verification, and data digitization.  
-- **Tracking Metrics:** Properties surveyed, total property details, and pending property details.  
+- **Resurvey**: Revisiting villages to update land records, verify boundaries, and ensure accuracy.  
+- **Naksha Project**: Digitizing properties in urban local bodies (ULBs) and wards to modernize property records.  
 
 ---
 
 ## 📊 Key Metrics (as per latest report)
-### Reservey Villages
-- **Total Villages (Reservey):** 926  
-- **Village Completed:** 27  
-- **Villages in Data Verification Process:** 66  
-- **Ongoing Villages:** 287  
 
-### NAKSHA Project (Properties)
-- **Properties Surveyed:** 84,057  
-- **Total Property Details:** 2,51,067  
-- **Pending Property Details:** 1,67,010  
+### 🔹 Resurvey Villages
+| Item                                | Count   |
+|-------------------------------------|---------|
+| **Total Villages (Resurvey)**       | 926     |
+| **Villages Completed (Resurvey)**   | 36      |
+| **Villages in Data Verification**   | 58      |
+| **Ongoing Villages**                | 287     |
 
 ---
 
-## 👥 Field Coordinator Status
-| Field Coordinator | Active Villages | Below 50% Completion | Above 50% Completion |
-|-------------------|-----------------|-----------------------|-----------------------|
-| Apu Ray           | 59              | 29                    | 30                  |
-| Biprojit Roy      | 72              | 0                     | 72                    |
-| Rupam Gogoi       | 69              | 29                    | 40                    |
-| Raam Doley        | 51              | 21                    | 30                    |
-| Utpal Rabha       | 19              | 11                    | 8                     |
-| Pradip Saikia     | 3               | 0                     | 3                     |
-| Dibakar Kalita    | 14              | 8                     | 6                     |
+### 👥 Field Coordinator Status
+| Field Coordinator | Active Villages | Below 50% Completion | Above 50% Completion | Above 80% Completion | Almost Completed |
+|-------------------|-----------------|-----------------------|-----------------------|-----------------------|------------------|
+| **Apu Ray**       | 59              | 29                    | 18                    | 5                     | 7                |
+| **Biprojit Roy**  | 72              | 0                     | 53                    | 12                    | 7                |
+| **Rupam Gogoi**   | 69              | 29                    | 33                    | 7                     | 0                |
+| **Raam Doley**    | 51              | 21                    | 22                    | 0                     | 8                |
+| **Utpal Rabha**   | 14              | 11                    | 3                     | 0                     | 5                |
+| **Pradip Saikia** | 3               | 0                     | 0                     | 0                     | 3                |
+| **Dibakar Kalita**| 19              | 8                     | 11                    | -                     | -                |
 
 ---
 
-## ⚡ Need of the Hour
-- **Faster Data Verification** to reduce pending property details.  
-- **Improved Public Cooperation** during survey work.  
-- **Stable Network Availability** for real-time data upload.  
-- **Efficient Equipment Handling** for smoother operations.  
+## 🚀 Goals
+- Complete Resurvey of all **926 villages**.
+- Accelerate **Naksha property digitization**.
+- Ensure **accuracy & transparency** in land records.
+- Provide **real-time monitoring** through dashboards and reporting.
 
 ---
 
-## 🚀 Future Enhancements
-- Integration with GIS mapping.  
-- Automated dashboards for real-time progress monitoring.  
-- AI-powered data validation for reducing manual verification load.  
-
----
-
-## 📂 Repository Structure
 
