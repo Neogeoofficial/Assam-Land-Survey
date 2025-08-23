@@ -111,7 +111,7 @@
 
 📌 **Prepared by:** *Project Management Office*  
 📞 **Contact:** +91-7002628197  
-🌐 [Government of Assam - Revenue Department](https://neogeoinfo.com/)  
+🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/)  
 
 ---
 
