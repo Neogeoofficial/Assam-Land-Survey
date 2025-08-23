@@ -93,7 +93,6 @@
 📋 **Report Generated**: 22nd August 2025 | ⏰ **Next Update**: 23rd August 2025  
 👤 **Prepared By**: *Project Management Office* | 📧 **Contact**: +91 7002628197  
 
-[![Government of Assam](https://img.shields.io/badge/Government_of-Assam-green)](https://assam.gov.in)  
-[![Revenue Department](https://img.shields.io/badge/Revenue-Department-blue)](https://revenue.assam.gov.in)  
+🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/) 
 
 </div>  
