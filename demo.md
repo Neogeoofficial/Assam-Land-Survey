@@ -1,95 +1,120 @@
-# 📊 Daily Progress Report - **22nd August 2025**
-### *Assam Land Survey Project - Field Operations Update*
+# 🏞️ Assam Land Survey Project - Progress Overview
 
-[![Date](https://img.shields.io/badge/Report_Date-22nd_August_2025-blue)](https://github.com)  
-[![Status](https://img.shields.io/badge/Status-Active_Operations-green)](https://github.com)  
-[![Teams](https://img.shields.io/badge/Active_Teams-Multiple_Circles-orange)](https://github.com)  
-
----
-
-## 🏙️ **NAKSHA Progress Report**
-
-### 📈 **Summary**
-- **Total Active Surveyors**: 114  
-- **Combined Daily Target**: 2,280  
-- **Total Achieved**: 118 (5.2%)  
-- **Performance Status**: 🔴 **Needs Immediate Attention**
-
-| **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (22nd Aug)** | **Achievement %** |
-|:-----------|:----------------|:--------------------:|:-------------------:|:-----------------------:|:----------------:|
-| **Srijangram** | Humayun Kabir | 12 | 240 | - | - |
-| **Dhekiajuli** | Kunal Hazarika | 9 | 180 | - | - |
-| **Mangaldoi** | Kunal Hazarika | 2 | 40 | - | - |
-| **Sivasagar** | Rupam Gogoi | 10 | 200 | - | - |
-| **Barnagar** | Humayun Kabir | 8 | 160 | **82** | **51.3%** |
-| **Bongaigaon** | Humayun Kabir | 14 | 280 | **27** | **9.6%** |
-| **Golaghat** | Dibakar Kalita | 6 | 120 | **0** | **0.0%** |
-| **Hojai** | Tonmoy Dutta | 11 | 220 | **9** | **4.1%** |
-| **Nalbari** | Humayun Kabir | 23 | 460 | **0** | **0.0%** |
-| **Nagaon** | Tonmoy Dutta | 19 | 380 | **0** | **0.0%** |
+### 📅 Status Report (August 2025)  
+[![Status](https://img.shields.io/badge/Project-Active-brightgreen)]()  
+[![Teams](https://img.shields.io/badge/Active_Teams-551-purple)]()  
+[![Villages](https://img.shields.io/badge/Resurvey_Villages-926-blue)]()  
+[![Urban](https://img.shields.io/badge/ULBs_Covered-10-orange)]()  
 
 ---
 
-## 🔍 **RESURVEY Progress Report**
+## 📊 Present Status  
 
-### 📊 **Summary**
-- **Total Surveyors Deployed**: 383  
-- **Total Active Surveyors**: 348  
-- **Combined Daily Target**: 9,225  
-- **Total Achieved**: 2,083 (22.6%)  
-- **Overall Performance**: 🔴 **Below Expectations**
-
-| **Coordinator** | **Circle** | **District** | **Deployed** | **Active** | **Daily KPI** | **Achieved** | **%** |
-|:----------------|:-----------|:-------------|:------------:|:----------:|:-------------:|:------------:|:-----:|
-| **Pradip Saikia** | Dhemaji | Dhemaji | 6 | 0 | 0 | 0 | 0.0% |
-| **Pradip Saikia** | Gogamukh | Dhemaji | 15 | 15 | 375 | 0 | 0.0% |
-| **Pradip Saikia** | Jonai | Dhemaji | 9 | 7 | 225 | 0 | 0.0% |
-| **Pradip Saikia** | Sissiborgaon | Dhemaji | 7 | 7 | 0 | 0 | 0.0% |
-| **Ram Kumar Doley** | Dibrugarh West | Dibrugarh | 55 | 50 | 1,375 | **564** | **41.0%** |
-| **Rupam Jyoti Gogoi** | Dibrugarh East | Dibrugarh | 37 | 33 | 925 | **290** | **31.4%** |
-| **Dibakar Kalita** | Moran | Dibrugarh | 23 | 19 | 575 | **207** | **36.0%** |
-| **Rupam Jyoti Gogoi** | Chabua | Dibrugarh | 27 | 23 | 675 | **107** | **15.9%** |
-| **Rupam Jyoti Gogoi** | Tinsukia | Tinsukia | 9 | 7 | 225 | **56** | **24.9%** |
-| **Biprojit Roy** | Algapur | Hailakandi | 7 | 7 | 175 | **58** | **33.1%** |
-| **Biprojit Roy** | Hailakandi | Hailakandi | 7 | 6 | 175 | **26** | **14.9%** |
-| **Biprojit Roy** | Lala | Hailakandi | 1 | 1 | 25 | 0 | 0.0% |
-| **Biprojit Roy** | Katlichera | Hailakandi | 7 | 7 | 175 | **59** | **33.7%** |
-| **Biprojit Roy** | Badarpur | Shribhumi | 25 | 18 | 625 | **199** | **31.8%** |
-| **Biprojit Roy** | Shribhumi Sadar | Shribhumi | 10 | 8 | 250 | **19** | **7.6%** |
-| **Biprojit Roy** | Nilambazar | Shribhumi | 20 | 19 | 500 | **43** | **8.6%** |
-| **Apu Ray** | Rk Nagar | Shribhumi | 31 | 30 | 775 | **131** | **16.9%** |
-| **Apu Ray** | Patharkandi | Shribhumi | 54 | 49 | 1,350 | **133** | **9.9%** |
-| **Utpal Rabha** | Chandrapur | Kamrup M | 24 | 24 | 600 | **38** | **6.3%** |
-| **Humayun Kabir** | Agomani | Dhubri | 7 | 7 | 0 | 0 | 0.0% |
-| **Humayun Kabir** | Baghbor | Barpeta | 3 | 2 | 75 | **89** | **118.7%** |
-| **Tanmoy Dutta** | Kampur | Nagaon | 5 | 5 | 125 | **64** | **51.2%** |
+| **Item** | **Details** |
+|----------|-------------|
+| ✅ Survey Completed (NC Villages) | **531 villages** |
+| 🏘️ Total Property Details (NAKSHA) | **251,067** |
+| 🏠 Properties Surveyed (NAKSHA) | **84,868** |
+| ⏳ Pending Property Details | **166,199** |
+| 🏢 ULBs Covered Under NAKSHA | **10 ULBs (155 Wards)** |
+| 🏁 Wards Completed Under NAKSHA | **113 wards** |
 
 ---
 
-## 📈 **Coordinator Performance Ranking (22nd August)**  
+### 🏙️ Property Completion (NAKSHA)
 
-### 🏆 Achievement Ranking  
-
-| **Rank** | **Coordinator** | **Survey Type** | **District(s)** | **Target** | **Achieved** | **Rate** |
-|:--------:|:----------------|:----------------|:----------------|:----------:|:------------:|:-------:|
-| 🥇 1st | **Ram Kumar Doley** | Resurvey | Dibrugarh | 1,375 | **564** | **41.0%** |
-| 🥈 2nd | **Dibakar Kalita** | Resurvey/Naksha | Dibrugarh/Golaghat | 695 | **207** | **29.8%** |
-| 🥉 3rd | **Rupam Jyoti Gogoi** | Resurvey/Naksha | Dibrugarh/Tinsukia/Sivasagar | 1,825 | **453** | **24.8%** |
-| 4th | Biprojit Roy | Resurvey | Shribhumi/Hailakandi | 1,925 | **404** | **21.0%** |
-| 5th | Humayun Kabir | Multi-Project | Bongaigaon/Nalbari/Barpeta/Dhubri | 1,415 | **198** | **14.0%** |
-| 6th | Apu Ray | Resurvey | Shribhumi | 2,125 | **264** | **12.4%** |
-| 7th | Tanmoy Dutta | Naksha/NC | Nagaon/Hojai | 770 | **73** | **9.5%** |
-| 8th | Utpal Rabha | Resurvey | Kamrup M | 720 | **38** | **5.3%** |
-| 9th | Pradip Saikia | NC Forest Resurvey | Dhemaji | 600 | **0** | **0.0%** |
+| **Location** | **Completed** | **Total** |
+|--------------|--------------:|----------:|
+| Nagaon       | 15,885 | 51,074 |
+| Hojai        | 5,261 | 16,741 |
+| Barpeta Road | 8,708 | 19,767 |
+| Bongaigaon   | 12,179 | 41,125 |
+| Abhayapuri   | 5,816 | 7,987 |
+| Nalbari      | 8,406 | 35,835 |
+| Mangaldoi    | 4,559 | 21,648 |
+| Dhekiajuli   | 8,976 | 16,725 |
+| Sivasagar    | 10,343 | 19,485 |
+| Golaghat     | 4,663 | 20,678 |
 
 ---
 
-<div align="center">
+## 🚀 Work in Progress  
 
-📋 **Report Generated**: 22nd August 2025 | ⏰ **Next Update**: 23rd August 2025  
-👤 **Prepared By**: *Project Management Office* | 📧 **Contact**: +91 7002628197  
+| **Activity** | **Status** |
+|--------------|------------|
+| 🔄 Re-Survey Operations | Ongoing in **926 villages across 6 districts** |
+| 🌾 NC Survey Operations | Ongoing in **6 villages** |
+| 🏙️ NAKSHA Survey Operations | Active in **38 wards** |
 
-[![Government of Assam](https://img.shields.io/badge/Government_of-Assam-green)](https://assam.gov.in)  
-[![Revenue Department](https://img.shields.io/badge/Revenue-Department-blue)](https://revenue.assam.gov.in)  
+---
 
-</div>  
+### 📌 Resurvey Villages  
+
+| **Category** | **Count** |
+|--------------|----------:|
+| Total Villages (Resurvey) | 926 |
+| ✅ Villages Completed | 36 |
+| 🗂️ Villages in Data Verification | 58 |
+| 🚧 Ongoing Villages | 287 |
+
+**Resurvey Circles Covered**:  
+*Dibrugarh West, Chandrapur, Chabua, Kampur, Moran, Algapur, Sadar Algapur, Hailakandi*
+
+---
+
+## 👥 Field Coordinator Performance  
+
+| **Coordinator** | **Active Villages** | <50% Completion | >50% Completion | >80% Completion | Almost Completed |
+|-----------------|---------------------:|----------------:|----------------:|----------------:|----------------:|
+| Apu Ray         | 59 | 29 | 18 | 5 | 7 |
+| Biprojit Roy    | 72 | 0  | 53 | 12 | 7 |
+| Rupam Gogoi     | 69 | 29 | 33 | 7  | 0 |
+| Raam Doley      | 51 | 21 | 22 | 0  | 8 |
+| Utpal Rabha     | 14 | 11 | 3  | 0  | 5 |
+| Pradip Saikia   | 0  | 0  | 0  | 0  | 0 |
+| Dibakar Kalita  | 19 | 8  | 11 | -  | - |
+
+---
+
+## 🧑‍🤝‍🧑 Human Resource Deployment  
+
+| **Category** | **Count** |
+|--------------|----------:|
+| 👥 Active Teams | 551 |
+| 📍 HRs in Survey/Re-Survey | 384 |
+| 🌾 HRs in NC Survey | 6 |
+| 🏙️ HRs in NAKSHA | 161 |
+| 🆕 Additional HRs Ready | 49 |
+| 👷 Assistant Surveyors at Worksites | 551 |
+
+---
+
+## ⚠️ Key Issues & Challenges  
+
+### 🔧 Resurvey Work Issues
+- 🌐 **Network Connectivity** – Non-availability in remote areas  
+- 👥 **HR Challenges** – Public reluctance, lack of cooperation  
+- 📱 **Device Problems** – CORS ID issues, Trimble malfunctions  
+- 🚗 **Vehicle Issues** – Breakdowns, transport unavailability  
+- 🌦️ **Weather Challenges** – Heavy rain & extreme heat hampering work  
+
+### 🏢 NAKSHA Project Issues
+- 🏛️ **Municipality Coordination** – Lack of presence of officials delaying verification  
+- 📅 **Multiple Site Visits** – Owners unaware of survey schedule  
+- 🔐 **Surveyor Access Restrictions** – Owners allow survey only with municipal staff  
+- 📶 **Data Synchronization** – Network issues causing delays  
+- 👤 **Property Owner Availability** – Unavailable during visits  
+- 📢 **Public Awareness** – Lack of understanding, resistance, misinformation  
+- 🚚 **Weather & Logistics** – Rains, heat, and transport issues  
+
+---
+
+📌 **Prepared by:** *Project Management Office*  
+📞 **Contact:** +91-7002628197  
+🌐 [Government of Assam - Revenue Department](https://revenue.assam.gov.in)  
+
+---
+
+✅ This Markdown is fully GitHub-friendly — tables, sections, and icons will render nicely.  
+
+Would you like me to also add a **progress percentage bar style (markdown)** for villages and properties so that readers can visually see completion rates?
