@@ -88,38 +88,13 @@
 
 ---
 
-## 🚨 **Critical Action Items**
 
-### ⚠️ **Immediate Attention Required**
-- **Zero Performance Areas**: Dhemaji circles (Pradip Saikia) - Urgent intervention needed
-- **NAKSHA Stagnation**: Nalbari, Nagaon, Golaghat showing no daily progress
-- **Below 10% Achievement**: Multiple circles require strategy revision
 
-### 🎯 **Success Stories**
-- **🌟 Baghbor Circle**: 118.7% achievement - Best practice to be replicated
-- **💪 Dibrugarh West**: Consistent 41% daily achievement rate
-- **⭐ Ram Kumar Doley**: Top performer with sustainable progress
-
----
-
-## 📞 **Escalation Matrix**
-
-<div align="center">
-
-| **Performance Level** | **Action Required** | **Timeline** |
-|:---------------------|:-------------------|:------------:|
-| 🔴 **0-10%** | Immediate field visit & strategy overhaul | **24 Hours** |
-| 🟡 **10-30%** | Weekly review & support enhancement | **7 Days** |
-| 🟢 **30%+** | Continue current approach with optimization | **Ongoing** |
-
-</div>
-
----
 
 <div align="center">
 
 **📋 Report Generated**: August 22nd, 2025 | **⏰ Next Update**: August 23rd, 2025<br>
-**👤 Report By**: Project Management Office | **📧 Contact**: assam.landsurvey@gov.in
+**👤 Report By**: Project Management Office | **📧 Contact**: +917002628197
 
 [![Government of Assam](https://img.shields.io/badge/Government_of-Assam-green)](https://assam.gov.in)
 [![Revenue Department](https://img.shields.io/badge/Revenue-Department-blue)](https://revenue.assam.gov.in)
