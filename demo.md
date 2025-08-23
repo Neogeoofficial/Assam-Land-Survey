@@ -111,10 +111,7 @@
 
 📌 **Prepared by:** *Project Management Office*  
 📞 **Contact:** +91-7002628197  
-🌐 [Government of Assam - Revenue Department](https://revenue.assam.gov.in)  
+🌐 [Government of Assam - Revenue Department](https://neogeoinfo.com/)  
 
 ---
 
-✅ This Markdown is fully GitHub-friendly — tables, sections, and icons will render nicely.  
-
-Would you like me to also add a **progress percentage bar style (markdown)** for villages and properties so that readers can visually see completion rates?
