@@ -1,4 +1,3 @@
-
 # 📊 Daily Progress Report - **22nd August 2025**
 ### *Assam Land Survey Project - Field Operations Update*
 
@@ -8,16 +7,30 @@
 
 ---
 
-## 🏙️ **NAKSHA Progress Report**  
+## 🏙️ **NAKSHA Progress Report**
 
+### 📈 **Summary**
+- **Total Active Surveyors**: 114  
+- **Combined Daily Target**: 2,280  
+- **Total Achieved**: 118 (5.2%)  
+- **Performance Status**: 🔴 **Needs Immediate Attention**  
 
+---
+
+## 🔍 **RESURVEY Progress Report**
+
+### 📊 **Summary**
+- **Total Surveyors Deployed**: 383  
+- **Total Active Surveyors**: 348  
+- **Combined Daily Target**: 9,225  
+- **Total Achieved**: 2,083 (22.6%)  
+- **Overall Performance**: 🔴 **Below Expectations**  
 
 ---
 
 ## 📈 **Coordinator Performance Ranking (22nd August)**  
 
 ### 🏆 Achievement Ranking  
-![Coordinator Ranking](coordinator_ranking.png)
 
 | **Rank** | **Coordinator** | **Survey Type** | **District(s)** | **Target** | **Achieved** | **Rate** |
 |:--------:|:----------------|:----------------|:----------------|:----------:|:------------:|:-------:|
@@ -42,7 +55,3 @@
 [![Revenue Department](https://img.shields.io/badge/Revenue-Department-blue)](https://revenue.assam.gov.in)  
 
 </div>  
-
-
-
-
