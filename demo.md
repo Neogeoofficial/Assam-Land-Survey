@@ -50,3 +50,14 @@
 [![Revenue Department](https://img.shields.io/badge/Revenue-Department-blue)](https://revenue.assam.gov.in)  
 
 </div>  
+
+
+
+### 📈 **Summary Visualization**
+![NAKSHA Progress](./naksha_progress.png)
+
+### 📊 **Summary Visualization**
+![RESURVEY Progress](./resurvey_progress.png)
+
+### 🏆 Achievement Ranking
+![Coordinator Ranking](./coordinator_ranking.png)
