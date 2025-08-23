@@ -70,7 +70,7 @@
 
 ---
 
-## 📈 **Coordinator Performance Matrix (1st - 22nd August)**
+## 📈 **Coordinator Performance Matrix (22nd August)**
 
 ### 🏆 **Monthly Achievement Ranking**
 
