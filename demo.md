@@ -15,8 +15,6 @@
 - **Total Achieved**: 118 (5.2%)  
 - **Performance Status**: 🔴 **Needs Immediate Attention**
 
-
-
 | **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (22nd Aug)** | **Achievement %** |
 |:-----------|:----------------|:--------------------:|:-------------------:|:-----------------------:|:----------------:|
 | **Srijangram** | Humayun Kabir | 12 | 240 | - | - |
@@ -28,7 +26,7 @@
 | **Golaghat** | Dibakar Kalita | 6 | 120 | **0** | **0.0%** |
 | **Hojai** | Tonmoy Dutta | 11 | 220 | **9** | **4.1%** |
 | **Nalbari** | Humayun Kabir | 23 | 460 | **0** | **0.0%** |
-| **Nagaon** | Tonmoy Dutta | 19 | 380 | **0** | **0.0%**
+| **Nagaon** | Tonmoy Dutta | 19 | 380 | **0** | **0.0%** |
 
 ---
 
@@ -40,8 +38,6 @@
 - **Combined Daily Target**: 9,225  
 - **Total Achieved**: 2,083 (22.6%)  
 - **Overall Performance**: 🔴 **Below Expectations**
-
-
 
 | **Coordinator** | **Circle** | **District** | **Deployed** | **Active** | **Daily KPI** | **Achieved** | **%** |
 |:----------------|:-----------|:-------------|:------------:|:----------:|:-------------:|:------------:|:-----:|
@@ -66,7 +62,7 @@
 | **Utpal Rabha** | Chandrapur | Kamrup M | 24 | 24 | 600 | **38** | **6.3%** |
 | **Humayun Kabir** | Agomani | Dhubri | 7 | 7 | 0 | 0 | 0.0% |
 | **Humayun Kabir** | Baghbor | Barpeta | 3 | 2 | 75 | **89** | **118.7%** |
-| **Tanmoy Dutta** | Kampur | Nagaon | 5 | 5 | 125 | **64** | **51.2%** 
+| **Tanmoy Dutta** | Kampur | Nagaon | 5 | 5 | 125 | **64** | **51.2%** |
 
 ---
 
