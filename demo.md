@@ -10,15 +10,7 @@
 
 ## 🏙️ **NAKSHA Progress Report**  
 
-### 📈 **Summary Visualization**
-![NAKSHA Progress](naksha_progress.png)
 
----
-
-## 🔍 **RESURVEY Progress Report**  
-
-### 📊 **Summary Visualization**
-![RESURVEY Progress](resurvey_progress.png)
 
 ---
 
@@ -53,11 +45,4 @@
 
 
 
-### 📈 **Summary Visualization**
-![NAKSHA Progress](./naksha_progress.png)
 
-### 📊 **Summary Visualization**
-![RESURVEY Progress](./resurvey_progress.png)
-
-### 🏆 Achievement Ranking
-![Coordinator Ranking](./coordinator_ranking.png)
