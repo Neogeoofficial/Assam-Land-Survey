@@ -97,6 +97,23 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 ---
 
+
+---
+
+## 👥 Field Coordinator Performance  
+
+| **Coordinator** | **Active Villages** | <50% Completion | >50% Completion | >80% Completion | Almost Completed |
+|-----------------|---------------------:|----------------:|----------------:|----------------:|----------------:|
+| Apu Ray         | 59 | 29 | 18 | 5 | 7 |
+| Biprojit Roy    | 72 | 0  | 53 | 12 | 7 |
+| Rupam Gogoi     | 69 | 29 | 33 | 7  | 0 |
+| Raam Doley      | 51 | 21 | 22 | 0  | 8 |
+| Utpal Rabha     | 14 | 11 | 3  | 0  | 5 |
+| Pradip Saikia   | 0  | 0  | 0  | 0  | 0 |
+| Dibakar Kalita  | 19 | 8  | 11 | -  | - |
+
+---
+
 ## 🧑‍🤝‍🧑 Human Resource Deployment  
 
 | **Category** | **Count** |
