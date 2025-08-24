@@ -76,9 +76,9 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 | **Location** | **Completed** | **Total** |
 |--------------|--------------:|----------:|
 | Nagaon       | 15,885 | 51,074 |
-| Hojai        | 5,261 | 16,741 |
-| Barpeta Road | 8,708 | 19,767 |
-| Bongaigaon   | 12,179 | 41,125 |
+| Hojai        | 5,341 | 16,741 |
+| Barpeta Road | 8,728 | 19,767 |
+| Bongaigaon   | 12,299 | 41,125 |
 | Abhayapuri   | 5,816 | 7,987 |
 | Nalbari      | 8,406 | 35,835 |
 | Mangaldoi    | 4,559 | 21,648 |
