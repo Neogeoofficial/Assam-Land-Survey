@@ -1,43 +1,96 @@
-# 🏞️ Assam Land Survey Project 
+# 🏞️ Assam Land Survey Project  
 
-![Project Logo](https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG?raw=true)
-
-
-### 📅 Status Report  
-[![Status](https://img.shields.io/badge/Project-Active-brightgreen)]()  
-[![Teams](https://img.shields.io/badge/Active_Teams-551-purple)]()  
-[![Villages](https://img.shields.io/badge/Resurvey_Villages-926-blue)]()  
-[![Urban](https://img.shields.io/badge/ULBs_Covered-10-orange)]()  
+<p align="center">
+  <img src="https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG?raw=true" alt="Project Logo" width="250"/>
+</p>
 
 ---
 
-## 🎯 **Mission Statement**
+## 📊 Project Overview  
 
-The **Assam Land Survey Project** is a transformative state initiative revolutionizing land administration through comprehensive **Resurvey** and **Naksha Project** implementations.  
-Our mission is to create a **transparent, accurate, and digitally-enabled land record system** for modern Assam.
+[![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge&logo=github)]()  
+[![Teams](https://img.shields.io/badge/Active_Teams-551-purple?style=for-the-badge)]()  
+[![Villages](https://img.shields.io/badge/Resurvey_Villages-926-blue?style=for-the-badge)]()  
+[![Urban](https://img.shields.io/badge/ULBs_Covered-10-orange?style=for-the-badge)]()  
 
-### 🔥 **Core Initiatives**
+---
+
+## 🎯 Mission Statement  
+
+The **Assam Land Survey Project** is a transformative state initiative revolutionizing land administration through:  
+
+- ✅ **Comprehensive Resurvey Programs**  
+- ✅ **Digital Naksha Project Implementation**  
+- ✅ **Modernized & Transparent Land Record System**  
+
+💡 *Our goal is to build a transparent, accurate, and digitally-enabled land record ecosystem that empowers citizens and ensures administrative efficiency across Assam.*  
+
+---
+
+## 🚀 Core Initiatives  
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔍 RESURVEY PROJECT**
-- **Objective**: Village-level land record modernization  
-- **Scope**: Boundary verification & record accuracy  
-- **Impact**: Enhanced property rights security  
+### 🔍 RESURVEY PROJECT  
+- 📌 **Objective**: Modernize village-level land records  
+- 📌 **Scope**: Boundary verification & record accuracy  
+- 📌 **Impact**: Secure & reliable property rights  
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏙️ NAKSHA PROJECT**
-- **Objective**: Urban property digitization  
-- **Scope**: ULB and ward-level mapping  
-- **Impact**: Streamlined urban land administration  
+### 🏙️ NAKSHA PROJECT  
+- 📌 **Objective**: Digitization of urban properties  
+- 📌 **Scope**: ULB & ward-level mapping  
+- 📌 **Impact**: Streamlined & efficient urban land administration  
 
 </td>
 </tr>
 </table>
 
 ---
+
+## 📅 Present Status  
+
+| Item                                   | Details    |
+|----------------------------------------|------------|
+| ✅ Survey Completed (NC Villages)       | **531 villages** |
+| 🏠 Total Property Details (NAKSHA)      | **251,067** |
+| 📑 Properties Surveyed (NAKSHA Project) | **84,699** |
+| ⏳ Pending Property Details             | **166,368** |
+| 🏙️ ULBs Covered Under NAKSHA            | **10 ULBs** |
+
+---
+
+## 🛠️ Technology Stack  
+
+- 📍 **GIS Mapping & Spatial Analysis**  
+- 💻 **Python / Pandas / Plotly for Data Insights**  
+- ☁️ **Cloud-enabled Data Storage & Access**  
+- 🗂️ **Centralized Database for Records**  
+
+---
+
+## 🌟 Key Highlights  
+
+✅ First-of-its-kind initiative in Assam for **land transparency**  
+✅ Covering both **remote villages** and **urban areas**  
+✅ **Scalable model** for future land administration projects  
+✅ Building a **trustworthy digital repository** of land records  
+
+---
+
+## 📌 Prepared By  
+**Project Management Office**  
+
+📞 **Contact**: +91-7002628197  
+🌐 **Official Website**: [NeoGeo Info](https://neogeoinfo.com/)  
+
+---
+
+<p align="center">  
+  🚀 *Empowering Assam with Digital Land Records* 🚀  
+</p>
 
