@@ -1,6 +1,7 @@
 # 🏞️ Assam Land Survey Project 
 
-https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG
+![Project Logo](https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG?raw=true)
+
 
 ### 📅 Status Report  
 [![Status](https://img.shields.io/badge/Project-Active-brightgreen)]()  
