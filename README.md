@@ -56,10 +56,16 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 | Item                                   | Details    |
 |----------------------------------------|------------|
-| ✅ Survey Completed (NC Villages)       | **531 villages** |
+| ✅ Survey Completed (NC Villages)       | **531 villages**  |
+| 🔹 Total Villages (Resurvey)            | **926** |
+| 🔹 Villages Completed                   | **36** |
+| 🔹 Villages in Data Verification        | **58** |
+| 🔹 Ongoing Villages                     | **258** |
 | 🏠 Total Property Details (NAKSHA)      | **251,067** |
 | 📑 Properties Surveyed (NAKSHA Project) | **84,699** |
 | ⏳ Pending Property Details             | **166,368** |
+| 🔹 Total Wards in NAKSHA                | **155** |
+| 🔹 Completed Wards                      | **113** |
 | 🏙️ ULBs Covered Under NAKSHA            | **10 ULBs** |
 
 ---
