@@ -70,6 +70,34 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 ---
 
+### 🏙️ Property Completion (NAKSHA)
+
+| **Location** | **Completed** | **Total** |
+|--------------|--------------:|----------:|
+| Nagaon       | 15,885 | 51,074 |
+| Hojai        | 5,261 | 16,741 |
+| Barpeta Road | 8,708 | 19,767 |
+| Bongaigaon   | 12,179 | 41,125 |
+| Abhayapuri   | 5,816 | 7,987 |
+| Nalbari      | 8,406 | 35,835 |
+| Mangaldoi    | 4,559 | 21,648 |
+| Dhekiajuli   | 8,976 | 16,725 |
+| Sivasagar    | 10,343 | 19,485 |
+| Golaghat     | 4,663 | 20,678 |
+
+---
+
+## 🚀 Work in Progress  
+
+| **Activity** | **Status** |
+|--------------|------------|
+| 🔄 Re-Survey Operations | Ongoing in **926 villages across 6 districts** |
+| 🌾 NC Survey Operations | Ongoing in **6 villages** |
+| 🏙️ NAKSHA Survey Operations | Active in **38 wards** |
+
+---
+
+
 ## 🛠️ Technology Stack  
 
 - 📍 **GIS Mapping & Spatial Analysis**  
