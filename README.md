@@ -148,11 +148,15 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 ---
 
-## 📌 Prepared By  
-**Project Management Office**  
+## 📞 **Executive Contact Information**
 
-📞 **Contact**: +91-9811501447 
-🌐 **Official Website**: [NeoGeo Info](https://neogeoinfo.com/)  
+<div align="center">
+
+### 📋 **Project Management Office**
+
+**📞 GM Contact**: +91-9811501447  
+**🌐 Official Portal**: [NeoGeo Info Solutions](https://neogeoinfo.com/)  
+**📧  Email**: manoranjan@neogeoinfo.com 
 
 ---
 
