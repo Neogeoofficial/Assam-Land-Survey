@@ -1,6 +1,6 @@
-# 🏞️ Assam Land Survey Project - Progress Overview
+# 🏞️ Assam Land Survey Project 
 
-### 📅 Status Report (August 2025)  
+### 📅 Status Report  
 [![Status](https://img.shields.io/badge/Project-Active-brightgreen)]()  
 [![Teams](https://img.shields.io/badge/Active_Teams-551-purple)]()  
 [![Villages](https://img.shields.io/badge/Resurvey_Villages-926-blue)]()  
