@@ -97,6 +97,38 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 ---
 
+## 🧑‍🤝‍🧑 Human Resource Deployment  
+
+| **Category** | **Count** |
+|--------------|----------:|
+| 👥 Active Teams | 551 |
+| 📍 HRs in Survey/Re-Survey | 384 |
+| 🌾 HRs in NC Survey | 6 |
+| 🏙️ HRs in NAKSHA | 161 |
+| 🆕 Additional HRs Ready | 49 |
+| 👷 Assistant Surveyors at Worksites | 551 |
+
+---
+
+## ⚠️ Key Issues & Challenges  
+
+### 🔧 Resurvey Work Issues
+- 🌐 **Network Connectivity** – Non-availability in remote areas  
+- 👥 **HR Challenges** – Public reluctance, lack of cooperation  
+- 📱 **Device Problems** – CORS ID issues, Trimble malfunctions  
+- 🚗 **Vehicle Issues** – Breakdowns, transport unavailability  
+- 🌦️ **Weather Challenges** – Heavy rain & extreme heat hampering work  
+
+### 🏢 NAKSHA Project Issues
+- 🏛️ **Municipality Coordination** – Lack of presence of officials delaying verification  
+- 📅 **Multiple Site Visits** – Owners unaware of survey schedule  
+- 🔐 **Surveyor Access Restrictions** – Owners allow survey only with municipal staff  
+- 📶 **Data Synchronization** – Network issues causing delays  
+- 👤 **Property Owner Availability** – Unavailable during visits  
+- 📢 **Public Awareness** – Lack of understanding, resistance, misinformation  
+- 🚚 **Weather & Logistics** – Rains, heat, and transport issues  
+
+---
 
 ## 🛠️ Technology Stack  
 
