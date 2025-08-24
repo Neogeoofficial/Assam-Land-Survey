@@ -82,10 +82,11 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 
 ---
 
-## 📌 Contact & Collaboration  
+## 📌 Prepared By  
+**Project Management Office**  
 
-👤 **Project Coordinator**: Assam State Land Survey Team  
-📧 *For queries & collaborations, please reach out to the core project office.*  
+📞 **Contact**: +91-7002628197  
+🌐 **Official Website**: [NeoGeo Info](https://neogeoinfo.com/)  
 
 ---
 
