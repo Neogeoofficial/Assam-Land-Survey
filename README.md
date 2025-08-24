@@ -1,8 +1,9 @@
-# 🏞️ Assam Land Survey Project  
-
 <p align="center">
-  <img src="https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG?raw=true" alt="Project Logo" width="250"/>
+  <img src="https://github.com/Neogeoofficial/Assam-Land-Survey/blob/884797c5b0d005effe9c31cfb67c944389437dc2/logo.PNG" width="180" />
 </p>
+
+<h1 align="center">📍 Assam Land Survey Project</h1>
+
 
 ---
 
