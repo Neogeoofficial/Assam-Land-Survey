@@ -1,5 +1,6 @@
 # 📊 Daily Progress Report - **23rd August 2025**
-### *Assam Land Survey Project - Field Operations Update*
+
+### *Assam Land Survey Project - Field Operations Update*  
 
 [![Date](https://img.shields.io/badge/Report_Date-23rd_August_2025-blue)](https://github.com)  
 [![Status](https://img.shields.io/badge/Status-Active_Operations-green)](https://github.com)  
@@ -30,11 +31,24 @@
 
 ---
 
+## 📅 **ULB Expected Completion Dates**
+
+| **ULB**       | **Expected Completion Date** |
+|---------------|------------------------------|
+| Bongaigaon    | 27th August 2025 |
+| Barnagar      | 15th September 2025 |
+| Hojai         | 30th September 2025 |
+| Nalbari       | 18th September 2025 |
+| Nagaon        | 12th October 2025 |
+| Golaghat      | 30th October 2025 |
+
+---
+
 ## 🔍 **RESURVEY Progress Report**
 
 ### 📊 **Summary**
-- **Total Surveyors Deployed**: 383  
-- **Total Active Surveyors**: 348  
+- **Total Surveyors Deployed**: 389  
+- **Total Active Surveyors**: 342  
 - **Combined Daily Target**: 8,625  
 - **Total Achieved**: 2,984 (34.6%)  
 - **Overall Performance**: 🟠 **Improving but below expectations**  
@@ -66,7 +80,22 @@
 
 ---
 
-## 📈 **Coordinator Performance Ranking (23rd August)**  
+## 📊 **Field Survey Snapshot (23rd August)**
+
+- 👷 **Today Present**: 470 Surveyors  
+- 📌 **Dag Progress**:  
+  - 0 Dag → **210**  
+  - 1 to 5 Dag → **26**  
+  - 6 to 15 Dag → **166**  
+  - ≥16 Dag → **68**  
+- 📡 **Total Rovers Used**: 240  
+- 📍 **Total Points Collected**: 15,491  
+- 👥 **Total Surveyors Present**: 332  
+- 🏆 **Surveyors Collected >50 Points**: 156 (**46.98%**)  
+
+---
+
+## 📈 **Coordinator Performance Ranking (23rd August)**
 
 ### 🏆 Achievement Ranking  
 
@@ -86,9 +115,10 @@
 
 <div align="center">
 
-📋 **Report Generated**: 23rd August 2025 | ⏰ **Next Update**: 24th August 2025  
-👤 **Prepared By**: *Project Management Office* | 📞 **Contact**: +91 7002628197  
-
-🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/) 
+📋 **Report Generated**: 23rd August 2025  
+⏰ **Next Update**: 24th August 2025  
+👤 **Prepared By**: *Project Management Office*  
+📞 **Contact**: +91 7002628197  
+🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/)  
 
 </div>
