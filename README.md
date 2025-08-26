@@ -63,8 +63,8 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 | 🔹 Villages in Data Verification        | **58** |
 | 🔹 Ongoing Villages                     | **258** |
 | 🏠 Total Property Details (NAKSHA)      | **251,067** |
-| 📑 Properties Surveyed (NAKSHA Project) | **85,088** |
-| ⏳ Pending Property Details             | **165,979** |
+| 📑 Properties Surveyed (NAKSHA Project) | **85,342** |
+| ⏳ Pending Property Details             | **165,725** |
 | 🔹 Total Wards in NAKSHA                | **155** |
 | 🔹 Completed Wards                      | **113** |
 | 🏙️ ULBs Covered Under NAKSHA            | **10 ULBs** |
@@ -76,9 +76,9 @@ The **Assam Land Survey Project** is a transformative state initiative revolutio
 | **Location** | **Completed** | **Total** |
 |--------------|--------------:|----------:|
 | Nagaon       | 15,885 | 51,074 |
-| Hojai        | 5,341 | 16,741 |
-| Barpeta Road | 8,728 | 19,767 |
-| Bongaigaon   | 12,299 | 41,125 |
+| Hojai        | 5,460 | 16,741 |
+| Barpeta Road | 8,738 | 19,767 |
+| Bongaigaon   | 12,403 | 41,125 |
 | Abhayapuri   | 5,816 | 7,987 |
 | Nalbari      | 8,406 | 35,835 |
 | Mangaldoi    | 4,559 | 21,648 |
