@@ -8,6 +8,8 @@
 
 ---
 
+
+
 ## 🏙️ **NAKSHA Progress Report**
 
 ### 📈 **Summary**
@@ -16,20 +18,22 @@
 - **Total Achieved**: 234 (10.3%)  
 - **Performance Status**: 🔴 **Needs Immediate Attention**  
 
-| **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (25th Aug)** | **Achievement %** |
-|:-----------|:----------------|:--------------------:|:-------------------:|:-----------------------:|:----------------:|
-| **Srijangram** | Humayun Kabir | 12 | 240 | - | - |
-| **Dhekiajuli** | Kunal Hazarika | 9 | 180 | - | - |
-| **Mangaldoi** | Kunal Hazarika | 2 | 40 | - | - |
-| **Sivasagar** | Rupam Gogoi | 10 | 200 | - | - |
-| **Barnagar** | Humayun Kabir | 8 | 160 | **10** | **6.0%** |
-| **Bongaigaon** | Humayun Kabir | 14 | 280 | **112** | **40.0%** |
-| **Golaghat** | Dibakar Kalita | 6 | 120 | **0** | **0.0%** |
-| **Hojai** | Tonmoy Dutta | 11 | 220 | **112** | **51.0%** |
-| **Nalbari** | Humayun Kabir | 23 | 460 | **0** | **0.0%** |
-| **Nagaon** | Tonmoy Dutta | 19 | 380 | **0** | **0.0%** |
+| **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (25th Aug)** | **Achievement %** | **Total Wards** | **Running Wards** | **Completed Wards** | **Pending Wards** |
+|:-----------|:----------------|:--------------------:|:-------------------:|:-----------------------:|:-----------------:|:---------------:|:-----------------:|:-------------------:|:----------------:|
+| **Srijangram** | Humayun Kabir | 12 | 240 | - | - | 11 | 0 | 11 | 0 |
+| **Dhekiajuli** | Kunal Hazarika | 9 | 180 | - | - | 10 | 0 | 10 | 0 |
+| **Mangaldoi** | Kunal Hazarika | 2 | 40 | - | - | 10 | 0 | 10 | 0 |
+| **Sivasagar** | Rupam Gogoi | 10 | 200 | - | - | 14 | 0 | 14 | 0 |
+| **Barnagar** | Humayun Kabir | 8 | 160 | **10** | **6.0%** | 10 | 5 | 5 | 0 |
+| **Bongaigaon** | Humayun Kabir | 14 | 280 | **112** | **40.0%** | 25 | 1 | 24 | 0 |
+| **Golaghat** | Dibakar Kalita | 6 | 120 | **0** | **0.0%** | 13 | 6 | 6 | 1 |
+| **Hojai** | Tonmoy Dutta | 11 | 220 | **112** | **51.0%** | 19 | 3 | 16 | 0 |
+| **Nalbari** | Humayun Kabir | 23 | 460 | **0** | **0.0%** | 17 | 11 | 6 | 0 |
+| **Nagaon** | Tonmoy Dutta | 19 | 380 | **0** | **0.0%** | 26 | 12 | 11 | 3 |
 
 ---
+
+
 
 ## 📅 **ULB Expected Completion Dates**
 
@@ -115,8 +119,8 @@
 
 <div align="center">
 
-📋 **Report Generated**: 25th August 2025  
-⏰ **Next Update**: 26th August 2025  
+📋 **Report Generated**: 26th August 2025  
+⏰ **Next Update**: 27th August 2025  
 👤 **Prepared By**: *Project Management Office*  
 📞 **Contact**: +91 7002628197  
 🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/)  
