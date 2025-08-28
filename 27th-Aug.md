@@ -10,11 +10,11 @@
 
 ## 🏙️ **NAKSHA Progress Report**
 
-### 📈 **Summary**
-- **Total Active Surveyors**: 123  
-- **Combined Daily Target**: 2,460  
-- **Total Achieved**: 1,067 (43.4%)  
-- **Performance Status**: 🟢 **Steady improvement**  
+## 🔹 Summary  
+- **Total Active Surveyors:** 123  
+- **Combined Daily Target:** 1,800  
+- **Total Achieved:** 802 (44.6%)  
+- **Performance Status:** 🟢 Steady improvement  
 
 | **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (27th Aug)** | **Achievement %** | **Total Wards** | **Running Wards** | **Completed Wards** | **Pending Wards** |
 |:-----------|:----------------|:--------------------:|:-------------------:|:-----------------------:|:-----------------:|:---------------:|:-----------------:|:-------------------:|:----------------:|
