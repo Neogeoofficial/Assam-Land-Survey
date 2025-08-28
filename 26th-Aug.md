@@ -11,9 +11,9 @@
 ## 🏙️ **NAKSHA Progress Report**
 
 ### 📈 **Summary**
-- **Total Active Surveyors**: 136  
-- **Combined Daily Target**: 2,820  
-- **Total Achieved**: 873 (31.0%)  
+- **Total Active Surveyors**: 123  
+- **Combined Daily Target**: 2,460  
+- **Total Achieved**: 771 (31.3%)  
 - **Performance Status**: 🟠 **Improved but needs consistency**  
 
 | **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (26th Aug)** | **Achievement %** | **Total Wards** | **Running Wards** | **Completed Wards** | **Pending Wards** |
@@ -50,7 +50,7 @@
 - **Total Surveyors Deployed**: 389  
 - **Total Active Surveyors**: 326  
 - **Combined Daily Target**: 8,625  
-- **Total Achieved**: 2,633 (30.5%)  
+- **Total Achieved**: 3,031 (35.0%)  
 - **Overall Performance**: 🟠 **Stable but requires improvement**  
 
 | **Coordinator** | **Circle** | **District** | **Deployed** | **Active** | **Daily KPI** | **Achieved** | **%** |
@@ -84,32 +84,30 @@
 
 - 👷 **Today Present**: 471 Surveyors  
 - 📌 **Dag Progress**:  
-  - 0 Dag → **192**  
-  - 1 to 5 Dag → **42**  
-  - 6 to 15 Dag → **180**  
-  - ≥16 Dag → **57**  
-- 📡 **Total Rovers Used**: 242  
-- 📍 **Total Points Collected**: 14,932  
-- 👥 **Total Surveyors Present**: 326  
-- 🏆 **Surveyors Collected >50 Points**: 154 (**47.2%**)  
+  - 0 Dag → **180**  
+  - 1 to 5 Dag → **35**  
+  - 6 to 15 Dag → **156**  
+  - ≥16 Dag → **93**  
+- 📡 **Total Rovers Used**: 229  
+- 📍 **Total Points Collected**: 14,910  
+- 👥 **Total Surveyors Present**: 335  
+- 🏆 **Surveyors Collected >50 Points**: 153 (**45.67%**)  
 
 ---
 
 ## 📈 **Coordinator Performance Ranking (26th August)**
 
-### 🏆 Achievement Ranking  
-
-| **Rank** | **Coordinator** | **Survey Type** | **District(s)** | **Target** | **Achieved** | **Rate** |
-|:--------:|:----------------|:----------------|:----------------|:----------:|:------------:|:-------:|
-| 🥇 1st | **Utpal Rabha** | Resurvey | Kamrup M | 600 | **293** | **49.0%** |
-| 🥈 2nd | **Biprojit Roy** | Resurvey | Shribhumi/Hailakandi | 1,925 | **718** | **37.0%** |
-| 🥉 3rd | **Ram Kumar Doley** | Resurvey | Dibrugarh | 1,375 | **625** | **45.0%** |
-| 4th | Rupam Jyoti Gogoi | Resurvey/Naksha | Dibrugarh/Tinsukia/Sivsagar | 2,400 | **763** | **32.0%** |
-| 5th | Apu Ray | Resurvey | Shribhumi | 2,125 | **484** | **23.0%** |
-| 6th | Tanmoy Dutta | Naksha/NC | Nagaon/Hojai | 785 | **360** | **46.0%** |
-| 7th | Humayun Kabir | Multi-Project | Bongaigaon/Nalbari/Barpeta/Dhubri | 1,355 | **453** | **33.0%** |
-| 8th | Dibakar Kalita | Resurvey/Naksha | Golaghat | 160 | **78** | **49.0%** |
-| 9th | Pradip Saikia | NC Forest Resurvey | Dhemaji | 0 | **0** | **0.0%** |
+| **Rank** | **Coordinator** | **Survey Areas** | **District Name** | **Target Dag** | **26th-Aug** | **Achievement Rate** |
+|:--------:|:----------------|:-----------------|:------------------|:--------------:|:------------:|:-------------------:|
+| 🥇 1st | **Dibakar Kalita** | Reservey/Naksha | Golaghat | 160 | 78 | **0.49** |
+| 🥈 2nd | **Tanmoy Dutta** | Naksha/NC | Nagaon/Hojai | 770 | 370 | **0.48** |
+| 🥉 3rd | **Ram Kumar Doley** | Reservey | Dibrugarh | 1375 | 625 | **0.45** |
+| 4th | Biprojit Roy | Reservey | Shribhumi/Hailakandi | 1925 | 721 | **0.37** |
+| 5th | Utpal Rabha | Reservey | Kamrup M | 720 | 281 | **0.39** |
+| 6th | Humayun Kabir | Reservey/Naksha/NC | Bongaigaon/Nalbari/Barpeta/Dhubri | 1415 | 480 | **0.34** |
+| 7th | Rupam Jyoti Gogoi | Reservey/Naksha | Dibrugarh/Tinsukia/Sivsagar | 2400 | 763 | **0.32** |
+| 8th | Apu Ray | Reservey | Shribhumi | 2125 | 484 | **0.23** |
+| 9th | Pradip Saikia | NC Forest Reservey | Dhemaji | 0 | 0 | **0.00** |
 
 ---
 
