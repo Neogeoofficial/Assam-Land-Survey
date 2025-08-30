@@ -13,7 +13,7 @@
 ## 🔹 Summary  
 - **Total Active Surveyors:** 123  
 - **Combined Daily Target:** 1,800  
-- **Total Achieved:** 790 (43.8%)  
+- **Total Achieved:** 780 (43.0%)  
 - **Performance Status:** 🟢 Stable  
 
 | **Circle** | **Coordinator** | **Active Surveyors** | **Daily KPI Target** | **Achieved (29th Aug)** | **Achievement %** | **Total Wards** | **Running Wards** | **Completed Wards** | **Pending Wards** |
@@ -112,8 +112,8 @@
 
 <div align="center">
 
-📋 **Report Generated**: 29th August 2025  
-⏰ **Next Update**: 30th August 2025  
+📋 **Report Generated**: 30th August 2025  
+⏰ **Next Update**: 1st Sept  2025  
 👤 **Prepared By**: *Project Management Office*  
 📞 **Contact**: +91 7002628197  
 🌐 [NeoGeoInfo Technologies Limited](https://neogeoinfo.com/)  
