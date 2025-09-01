@@ -47,7 +47,7 @@
 
 ### 📊 **Summary**
 - **Total Surveyors Deployed**: 389  
-- **Total Active Surveyors**: 326  
+- **Total Active Surveyors**: 349  
 - **Combined Daily Target**: 8,625  
 - **Total Achieved**: 1,857 (22.0%)  
 - **Overall Performance**: 🟡 **Stable**  
